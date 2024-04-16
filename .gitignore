@@ -105,6 +105,7 @@ myenv/
 venv/
 env/
 ENV/
+spark-venv/
 
 # Spark
 logs/
@@ -112,7 +113,4 @@ logs/
 metastore_db/
 derby.log
 tmp/
-
-# Data directories
-data/out/
 
